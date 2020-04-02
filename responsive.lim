@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lim version="5.5">
+    <config>
+        <idioma>4</idioma>
+        <licencia></licencia>
+        <corfondo>ffffff</corfondo>
+        <cormensaxes>000000</cormensaxes>
+        <cortexto>000000</cortexto>
+        <informe>0</informe>
+        <botonson>0</botonson>
+        <maximizar>0</maximizar>
+        <desordenar>0</desordenar>
+        <correcto son="" modo="1" >CORRECTO</correcto>
+        <incorrecto son="" modo="1" >INCORRECTO</incorrecto>
+    </config>
+    <libro>
+        <paxina id="1" >
+              <tipo>1</tipo>
+              <cabeceira>1111111111111111111111</cabeceira>
+              <pe>wrewre    ererer   ewrr  wererr</pe>
+              <evalua  crt="c  ccccccc" icrt="eeeeeeeeeeeee">1</evalua>
+              <texto>222222222222222222222222222222222222</texto>
+              <resp texto="1a1a1a" valor="1">11111111111111111111111111111111111111111111111111111111111111111111</resp>
+              <resp texto="2a2a2a" valor="0">222222222222222222222222222222</resp>
+              <resp texto="3a3a3a" valor="0">3333333333333333333333333</resp>
+              <resp texto="4a4a4a" valor="0">444444444444444444444444444444</resp>
+        </paxina>
+        <paxina id="2" >
+              <tipo>1</tipo>
+              <cabeceira>vvdfvd</cabeceira>
+              <imaxe>EDUCRACIA.png</imaxe>
+              <texto>efvefvevf</texto>
+              <resp texto="" valor="1">vefvvvee</resp>
+              <resp texto="" valor="0">rvvevvv</resp>
+              <resp texto="" valor="0">vevfff</resp>
+              <resp texto="" valor="0">vrrrvvvv</resp>
+        </paxina>
+    </libro>
+</lim>
